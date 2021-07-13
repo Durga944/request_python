@@ -1,0 +1,37 @@
+{
+    "data": [
+        {
+            "id": "2968",
+            "parent_exercise_id": null,
+            "name": "Introduction",
+            "slug": "seva__introduction",
+            "sequence_num": 0,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/seva/introduction.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "2969",
+            "parent_exercise_id": null,
+            "name": "Process of Seva Allotment",
+            "slug": "seva__seva-allotment",
+            "sequence_num": 100,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/seva/seva-allotment.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "2970",
+            "parent_exercise_id": null,
+            "name": "Feedback",
+            "slug": "seva__feedback",
+            "sequence_num": 200,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/seva/feedback.md",
+            "submission_type": null,
+            "childExercises": []
+        }
+    ]
+}
